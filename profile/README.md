@@ -15,6 +15,7 @@
 | | App | Platform | |
 |---|---|---|---|
 | 🏝 | **[NotchIsland](https://github.com/theoron-apps/NotchIsland)** | macOS | Dynamic Island for MacBooks with a notch: music with a live equalizer, notifications, timer, file shelf and stats right in the notch. |
+| 📝 | **[mdview](https://github.com/theoron-apps/MDview)** | macOS | A minimal Markdown reader and editor: reading, source and live-preview modes, tabs, folders, outline and search, with tables, Mermaid and formulas rendered offline. |
 
 ### Principles
 
@@ -24,4 +25,4 @@
 
 ---
 
-<p align="center">Небольшая студия нативных приложений · Невелика студія нативних застосунків</p>
+<p align="center">Невелика студія нативних застосунків</p>
