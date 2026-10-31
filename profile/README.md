@@ -16,6 +16,7 @@
 |---|---|---|---|
 | 🏝 | **[NotchIsland](https://github.com/theoron-apps/NotchIsland)** | macOS | Dynamic Island for MacBooks with a notch: music with a live equalizer, notifications, timer, file shelf and stats right in the notch. |
 | 📝 | **[mdview](https://github.com/theoron-apps/MDview)** | macOS | A minimal Markdown reader and editor: reading, source and live-preview modes, tabs, folders, outline and search, with tables, Mermaid and formulas rendered offline. |
+| 📄 | **[pdfview](https://github.com/theoron-apps/pdfview)** | macOS | A native PDF reader and editor: change real paragraphs that reflow across pages, draw, add text boxes, crop and export pages. Liquid Glass, offline. |
 
 ### Principles
 
