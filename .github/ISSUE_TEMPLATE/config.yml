@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 💬 News and support on Telegram
+    url: https://t.me/TheoronApps
+    about: Questions, ideas and news about Theoron apps.
+  - name: 🗣️ Discussions
+    url: https://github.com/theoron-apps/discussions
+    about: Guides and community discussions.
+  - name: 🔒 Report a security issue
+    url: https://github.com/theoron-apps/.github/blob/main/SECURITY.md
+    about: Please don't open a public issue for vulnerabilities.

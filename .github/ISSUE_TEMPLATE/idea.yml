@@ -1,0 +1,22 @@
+name: 💡 Idea
+description: Suggest a feature or an improvement.
+labels: ["enhancement"]
+body:
+  - type: dropdown
+    id: app
+    attributes:
+      label: App
+      options:
+        - NotchIsland
+        - Outputs
+        - Conversio
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What you'd like and why it would help you. Можно по-русски или по-украински.
+    validations:
+      required: true

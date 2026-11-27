@@ -1,0 +1,35 @@
+name: 🐞 Bug report
+description: Something in a Theoron app doesn't work.
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: app
+    attributes:
+      label: App
+      options:
+        - NotchIsland
+        - Outputs
+        - Conversio
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What you did, what you expected and what happened instead. Можно по-русски или по-украински.
+    validations:
+      required: true
+  - type: input
+    id: mac
+    attributes:
+      label: Mac, macOS and app version
+      description: The app version is in its About window or Settings.
+      placeholder: "MacBook Air M2, macOS 15.6, NotchIsland 6.1"
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs or screenshots
+      description: If the app crashed, macOS shows a report. Click Report… and paste the text here.
