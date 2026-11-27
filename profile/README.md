@@ -1,8 +1,9 @@
-<h1 align="center">Theoron</h1>
-
-<p align="center"><i>θεωρῶν — “the one who contemplates”</i></p>
-
-<p align="center">A small studio crafting polished native apps — fast, beautiful and private.</p>
+<p align="center"><a href="https://theoron-apps.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/theoron-apps/.github/main/profile/assets/banner-dark.jpg">
+    <img src="https://raw.githubusercontent.com/theoron-apps/.github/main/profile/assets/banner-light.jpg" width="100%" alt="Theoron — θεωρῶν, the one who contemplates. A small studio crafting native Mac apps: fast, beautiful and private.">
+  </picture>
+</a></p>
 
 <p align="center"><a href="https://theoron-apps.github.io"><img src="https://raw.githubusercontent.com/theoron-apps/.github/main/profile/assets/website.svg" height="40" alt="Website: theoron-apps.github.io"></a></p>
 
