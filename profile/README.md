@@ -4,6 +4,8 @@
 
 <p align="center">A small studio crafting polished native apps — fast, beautiful and private.</p>
 
+<p align="center"><a href="https://theoron-apps.github.io"><img src="https://raw.githubusercontent.com/theoron-apps/.github/main/profile/assets/website.svg" height="40" alt="Website: theoron-apps.github.io"></a></p>
+
 <p align="center">
   <a href="https://t.me/TheoronApps"><img src="https://img.shields.io/badge/Telegram-@TheoronApps-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://github.com/theoron-apps/discussions"><img src="https://img.shields.io/badge/Discussions-join-3f7561?style=flat-square&logo=github&logoColor=white" alt="Discussions"></a>
